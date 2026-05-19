@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#g)" />
+  <g fill="#9ca3af" font-family="Inter,Arial,Helvetica,sans-serif" font-weight="600" text-anchor="middle">
+    <text x="50%" y="46%" font-size="56">Music App</text>
+    <text x="50%" y="56%" font-size="20">Project preview unavailable — using local placeholder</text>
+  </g>
+</svg>
